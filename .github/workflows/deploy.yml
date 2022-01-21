@@ -22,4 +22,5 @@ jobs:
             cd cwu-umd.github.io
             git pull
             cd ../../pub
+            rm -rf *
             cp -r ../home/cwu-umd.github.io .
