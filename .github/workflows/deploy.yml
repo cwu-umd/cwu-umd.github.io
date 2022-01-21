@@ -21,4 +21,4 @@ jobs:
           script: |
             cd cwu-umd.github.io
             git pull
-            yes | cp ./* ../../pub/
+            yes | cp -rf ./* ../../pub/
