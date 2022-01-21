@@ -133,3 +133,9 @@ html, body {
     flex-grow: 1;
     text-align: end;
 }
+
+.interest {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
