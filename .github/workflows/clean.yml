@@ -20,5 +20,7 @@ jobs:
           script: |
             unalias rm
             rm -rf cwu-umd.github.io
+            cd ../pub
+            rm -rf cwu-umd.github.io
         
     
